@@ -2,6 +2,7 @@ ipykernel
 pandas 
 numpy
 matplotlib
+dnspython
 plotly
 seaborn
 scipy
@@ -22,4 +23,5 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+dotenv
 -e .
