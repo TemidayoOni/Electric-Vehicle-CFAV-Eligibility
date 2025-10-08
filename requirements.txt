@@ -6,6 +6,7 @@ dnspython
 plotly
 seaborn
 scipy
+from_root
 scikit-learn
 imblearn
 xgboost
