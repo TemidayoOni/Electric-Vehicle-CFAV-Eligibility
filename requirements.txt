@@ -9,7 +9,7 @@ scipy
 from_root
 scikit-learn
 imblearn
-xgboost
+xgboost == 2.0.3
 catboost
 pymongo
 from_root
